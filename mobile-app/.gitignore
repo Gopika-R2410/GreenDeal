@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Expo files
+.expo/
+dist/
+web-build/
+
+# Native builds
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Environment variables & secrets (crucial for Firebase keys!)
+.env*
+
+# macOS/Windows system files
+.DS_Store
+Thumbs.db
+
